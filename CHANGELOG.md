@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.9.4-beta
+- **Needs Mod Drive 9000 1.2.0** (Mod Drive updates itself first).
+- **The collab content is downloaded from its original authors** when POSTMORTEM is installed -- Let It Revive (Anon / Chromarex) and s3er0i9ng -- instead of being part of this download. Every file is checked against the original, and the collab decal stickers are rebuilt on your PC. POSTMORTEM cannot be installed without it. Credits: `ModDriveInstaller/lib/Installer/packs/postmortem-collab/CREDITS.md`.
+- **Leaderboard:** much lighter on the network -- every board in one download every 2 minutes while the leaderboard is open, your scores sent at most every 10 minutes (a new record within a minute).
+
 ## 0.9.3-beta
 - **Riding a floor elevator back to the waiting room saves the run** too, not only Tryptamine D and the Solo Shelter.
 - **Co-op:** the party leader saves and continues the run; the others follow, and keep their levels, decals, powerups and lives for the session.

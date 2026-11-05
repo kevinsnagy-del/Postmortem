@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.9.2-beta
+- **Continue runs later:** a run left with Tryptamine D or a Solo Shelter is saved, even if you close the game. The hub elevators offer CONTINUE with the run's stats (run points, waves, lives, world level), and X there ends the run.
+- Continuing a run sends the bag's mushrooms, beasts and healing items to the storage locker (healing items that do not fit go to the reward box).
+- Quitting no longer refills your lives: a resumed run keeps the lives it had.
+- Fighters come only from the freezer's random offers: an empty slot can no longer buy one.
+- **Leaderboard:** your record runs are checked by the leaderboard server before a Roguelike, Horde or Boss Rush best counts. An outdated version is told to update instead of failing silently.
+
 ## 0.9.1-beta
 - Supports the LET IT DIE update of 2026-10-20 (Steam build 25923506).
 - **Balance pass**: enemies get deadlier and more numerous with depth instead of tankier. Elite enemies with auras that grow with depth (fast, explosive, regenerating), reinforcements, gentler first floors and a cap on how much one hit can take.

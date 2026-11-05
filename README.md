@@ -71,11 +71,11 @@ This is a **beta**: lots of systems, some rough edges. Back up whenever you like
 
 ## Credits
 
-- The console collab decals and gear come from the community's collab packs, shipped unchanged:
+- The console collab decals and gear are **not part of this download**: Mod Drive 9000 downloads them from their original authors when POSTMORTEM is installed (checked file by file against the original; the decal stickers are rebuilt on your PC):
   - s3er0i9ng's [LetItDieOfflineSafeContentInstaller](https://github.com/s3er0i9ng/LetItDieOfflineSafeContentInstaller);
   - Let It Revive ([Nexus](https://www.nexusmods.com/letitdie/mods/15), [source](https://gitgud.io/ClaudiaDiva/LID-QuestRevival)), with thanks to ZeroUnderOne.
 
-  See `ModDriveInstaller/lib/Installer/packs/postmortem-collab/CREDITS.md` in the download. They are in their own pack, `postmortem-collab`.
+  with thanks to spiritovod. See `ModDriveInstaller/lib/Installer/packs/postmortem-collab/CREDITS.md`. An internet connection is needed the first time POSTMORTEM is installed.
 - The title music is used with permission.
 
 LET IT DIE belongs to GungHo Online Entertainment / Supertrick Games. This is an unofficial fan project.

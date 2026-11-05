@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.9.3-beta
+- **Riding a floor elevator back to the waiting room saves the run** too, not only Tryptamine D and the Solo Shelter.
+- **Co-op:** the party leader saves and continues the run; the others follow, and keep their levels, decals, powerups and lives for the session.
+- **New achievements:** defeat fired-up enemies (and ones with two traits), dodge fired-up explosions, pray at shrines, receive every blessing, finish floors under 10 % HP, collect kill coins and SPIRIT, hold SPIRIT, Bloodnium and Death Metal at once, earn Bloodnium, bring gear to Premium 99, and a tier for every grade up to 7. "Spend" achievements for kill coins and SPIRIT became "collect".
+- Shrines no longer curse you.
+- **Leaderboard:** the server now also checks currency and run points between runs, and works out Overall itself.
+
 ## 0.9.2-beta
 - **Continue runs later:** a run left with Tryptamine D or a Solo Shelter is saved, even if you close the game. The hub elevators offer CONTINUE with the run's stats (run points, waves, lives, world level), and X there ends the run.
 - Continuing a run sends the bag's mushrooms, beasts and healing items to the storage locker (healing items that do not fit go to the reward box).

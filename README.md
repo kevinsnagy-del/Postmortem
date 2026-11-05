@@ -15,7 +15,7 @@ This is a **beta**: lots of systems, some rough edges. Back up whenever you like
 ### Runs
 - **Random fighters** from your freezer. Death is permanent: a fallen fighter stays behind as a hater.
 - **Lives** instead of kill-coin continues. Quitting the game does not refill them.
-- **Continue later:** leave a run with Tryptamine D or a Solo Shelter and it is saved, even if you close the game. The hub elevators offer **CONTINUE** with the run's stats (run points, waves, lives, world level), and **X** there ends the run. Continuing sends the bag's mushrooms, beasts and healing items to the storage locker (healing items that do not fit go to the reward box).
+- **Continue later:** ride a floor elevator back to the waiting room, or use Tryptamine D or a Solo Shelter, and the run is saved, even if you close the game. The hub elevators offer **CONTINUE** with the run's stats (run points, waves, lives, world level), and **X** there ends the run. Continuing sends the bag's mushrooms, beasts and healing items to the storage locker (healing items that do not fit go to the reward box).
 - **Quit mid-floor** and the next launch puts you back on that floor, in the same run.
 - **Level up on the floor** (X in the pause menu); levels reset when the run ends. Your **world level** and **grade** grow as you play, and grade-ups to **grade 7** happen by themselves.
 - **12 blood pacts** chosen on the elevator, for more or less SPIRIT: No Hub Upgrades, Mythic, No Decals, Brittle, Masterwork, Hunted, Overtime, Locked Down, Fog of War, Safe Passage, Quiet World and Randomizer (random weapons and armour every floor instead of powerups).
@@ -39,7 +39,7 @@ This is a **beta**: lots of systems, some rough edges. Back up whenever you like
 
 ### Blessing shrines
 - Jizo, fox and monkey statues appear on floors; **hold A** to pray (a gauge shows the progress).
-- Blessings: **Swiftness**, **Wrath**, **Iron Skin**, **Bloodthirst**, **Fortune**, **Jizo's Mercy** (one more life) and **Inari's Favour**; some shrines carry a **curse** (Slowness, Frailty), and there is **Monkeysanity**.
+- Blessings: **Swiftness**, **Wrath**, **Iron Skin**, **Bloodthirst**, **Fortune**, **Jizo's Mercy** (one more life) and **Inari's Favour**; and there is **Monkeysanity**. Gamble shrines trade kill coins for a random blessing.
 
 ### Between runs
 - **The TDM terminal is a hub-upgrade web:** damage and resistance per element (slash, blunt, fire, electric, poison, gunfire), Starting Lives, Second Wind, Floor Medic, Wave Medic, Bloodlust, Head Start, Extra Starters, Rerolls, Banish, Reward Quality, Reward Rooms, Lucky Drops, Treasure Nose, Explorer, Scout, Fewer Lockdowns, Longer Breathers, Lost Bag, Salvage, Bank, Spirit Tank, Dustin, Whetstone, Grade Up, Decal Mastery, Decal Offers, Focused Decals, gear and decal ticket magnets, Tuned Tickets, Blood Pacts, and the fighter upgrades (Fighter Freezer, Fighter Offers, Fighter Tier, Better Fighters, Skilled Fighters, Big Bags).
@@ -58,7 +58,7 @@ This is a **beta**: lots of systems, some rough edges. Back up whenever you like
 
 ### Also
 - **Restored cut content:** four cut decals and 32 mushrooms for the mushroom effects the game handles but never used. Plus the console collab decals and gear.
-- **Co-op:** POSTMORTEM runs can be played together with [Let Us Die](https://github.com/kevinsnagy-del/LetUsDie).
+- **Co-op:** POSTMORTEM runs can be played together with [Let Us Die](https://github.com/kevinsnagy-del/LetUsDie); the party leader saves and continues the run, the others follow.
 - Its own title movie and title music.
 
 ## Install

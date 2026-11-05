@@ -14,15 +14,15 @@ A roguelike mode for **LET IT DIE**, built on [Mod Drive 9000](https://github.co
 - **Restored cut content:** four cut decals and 32 mushrooms for the mushroom effects the game handles but never used. Plus the console collab decals and gear.
 - Its own title movie and title music.
 
-This is a **beta**: lots of systems, some rough edges. Back up whenever you like with `ModDriveInstaller\Backup.bat`, and `RestoreSaves.bat` can restore only the POSTMORTEM save.
+This is a **beta**: lots of systems, some rough edges. Back up whenever you like in `ModDriveInstaller\ModDrive9000.exe` under **Backups**, which can also restore only the POSTMORTEM save.
 
 ## Install
 
 1. Install [Mod Drive 9000](https://github.com/kevinsnagy-del/ModDrive9000) first.
 2. Download `Postmortem-<version>.zip` from [Releases](../../releases), close the game, and unzip it into the LET IT DIE folder.
-3. Run `ModDriveInstaller\Install.bat` again. It adds POSTMORTEM to the title menu and builds its art, title movie and music **from your own game files**. This takes a few minutes, and your files and saves are backed up first.
+3. Open `ModDriveInstaller\ModDrive9000.exe` and choose **Apply mods to the game**. It adds POSTMORTEM to the title menu and builds its art, title movie and music **from your own game files**. This takes a few minutes, and your files and saves are backed up first.
 
-**Updates:** run `ModDriveInstaller\Update.bat` (betas update to newer betas). **Remove:** run `ModDriveInstaller\Remove.bat` and type `postmortem`. Your POSTMORTEM save `pmortem.sav` is kept.
+**Updates and removal:** in `ModDriveInstaller\ModDrive9000.exe`, under **Mods** (betas update to newer betas). Your POSTMORTEM save `pmortem.sav` is kept.
 
 ## Credits
 

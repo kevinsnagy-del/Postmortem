@@ -29,7 +29,7 @@ This is a **beta**: lots of systems, some rough edges. Back up whenever you like
 - **POSTMORTEM's own drop table**, which follows the depth: gear up to **rarity 7**, gated by your grade.
 - **Lockboxes in random spots**, **lucky drops** from kills, and **reward rooms**.
 - **Skill decals** that stack, with a skill bar.
-- **Super weapons:** Charon's Toll, Hellhound Pair, Skybreaker, Thousand Fists, Bizarre Jojos, Yggdrasil and Valhalla, each with its own look and its own mechanic.
+- **Super weapons:** Death Toll, Hellhound Pair, Shadowpiercer, Thousand Fists, Bizarre Jojos, Yggdrasil and Shinigami, each with its own look and its own mechanic.
 
 ### Enemies and events
 - **No damage sponges:** deeper means enemies that hit harder and come in greater numbers, not enemies with more health. The first floors are gentler, and no single hit can take more than a share of your health.

@@ -1,5 +1,29 @@
 # Changelog
 
+## 0.9.6-beta
+- **Leaderboard: only unmodified games are ranked.** Every upload carries a fingerprint of POSTMORTEM's data files and the installed plug-ins. Other mods still work, but changed data files, an unofficial plug-in or the Debug tools make your scores unranked (the POSTMORTEM page says why). Using the Debug tools on a save now keeps it off the leaderboard for good.
+- Less work every frame: object lookups are cached and the fountain search reads only the level's decorations.
+- **You can no longer start a run at a grade you cannot pay for**: the elevator's Start row is greyed out (A tells you the price) and the boss rush chooser refuses to ride.
+- **New achievement: Land Perfect Guards** (1 / 10 / 50 / 200 / 500).
+- Fixed two lag spikes on arriving on a floor (the gate opening and the fountain search each froze the game for up to a second).
+- "The escalators are open, you can leave the floor" has its comma.
+- **Death Metal for horde and boss rush**: every 10 waves and every 10 bosses defeated in a run pay a Death Metal, like every 10 floors in roguelike. The floors / waves skipped by a start grade do not count.
+- **Closing the game window on a run floor keeps the run** (like Quit game in the menu): you return to the start of that floor next time. It used to end the run.
+- The elevator's start-grade row no longer shows a depth (a new run always starts on floor 1).
+- **Super weapons renamed:** Charon's Toll is now **Death Toll** (its power: **Death's Call**), Skybreaker is **Shadowpiercer**, Valhalla is **Shinigami**.
+- Fixed: jumping off a level could leave you unable to move or open the menu after you were put back (the level's fall trigger had taken control away for a death that no longer happens). Falling into a kill zone now costs 10% once, not twice.
+- **Starting at a higher grade starts you on floor 1**: the run plays at that grade (enemies, gear, materials -- good for farming a grade), but the floor counter, run points, the leaderboards and the depth achievements count the floors you actually play. To climb the depth board, start at grade 1.
+- **Infinite ammo**: guns, bows and every other ammo weapon never run out of reserve ammo in POSTMORTEM -- the magazine still empties and reloads at its normal size; they still wear down with each shot and break. Their ammo counters are gone from the weapon boxes and the bag.
+- Fixed: treasure boxes could be placed on ledges only enemies can reach (enemy spawn points are no longer used as box spots).
+- Fixed: gates and fences on a new floor could be passable but still look closed (they were opened while the previous floor was still loaded).
+- **Haters hit harder** on early floors: their attack now starts at its full value instead of -70% (they did about 1% of your health a hit).
+- **Enemy gear varies**: each piece an enemy wears rolls its own upgrade level. The further the world grade has progressed, the more pieces are upgraded and the higher they go; a new world grade brings the next grade of gear.
+- Fixed: a crash on an escalator ride now and then (the game's offline server simulated a rival team raiding your fort, which needs a team a POSTMORTEM fighter does not have).
+- Fixed: a chest piece put on from your bag could still vanish on the next floor change.
+- The shrine and fountain prompt shows the game's "!" icon instead of the bomb.
+- A used fountain's water goes back to its normal colour.
+- Fixed: decals of a continued run showed no icon on the skill bar.
+
 ## 0.9.5-beta
 - **Needs Mod Drive 9000 1.3.3** (Mod Drive updates itself first).
 - **Fixed: a Jackal's kill skipped your lives.** The game sends a death by a Jackal straight to "game over"; with a life left you now get the continue as with any death.

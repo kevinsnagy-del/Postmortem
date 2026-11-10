@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.9.7-beta
+- Fixed: armour from rewards disappeared when you rode the elevator back to the waiting room (weapons were kept).
+- **Returning to a paused run puts you back on the same floor as you left it:** the chests stand where they stood (the ones you opened are gone), the enemies you defeated stay dead and the rest are the same ones, and the discovered map is kept.
+- **Y: COINS instead** on reward and decal offers (kill coins, 1.5x the SPIRIT value of X).
+- Fixed: the boss rush escalator could be started while a run was paused, and its timer and countdown started in the waiting room. A paused run is now continued or ended on a hub elevator first.
+- Fixed: treasure boxes took 10-20 seconds to move to their spots on a new floor; they now move as soon as you have control.
+- The boss rush chooser no longer shows an explanation next to RIDE THE ESCALATOR (it ran past the bar).
+- **Back to title keeps your run.** On a run floor it no longer counts as a death: the floor is saved (as a Bivouac would, without using one) and Start on the title continues the run where you were.
+- **Your HP is kept when a run continues.** Quitting, closing the game or Back to title and then continuing no longer gives you full health: you come back with the HP you had.
+- Fixed: after continuing a run started at a higher grade, the floor counter counted from that grade instead of from floor 1.
+- Fixed: when a blessing finished, the prompt briefly showed the bomb icon before it faded.
+
 ## 0.9.6-beta
 - **Leaderboard: only unmodified games are ranked.** Every upload carries a fingerprint of POSTMORTEM's data files and the installed plug-ins. Other mods still work, but changed data files, an unofficial plug-in or the Debug tools make your scores unranked (the POSTMORTEM page says why). Using the Debug tools on a save now keeps it off the leaderboard for good.
 - Less work every frame: object lookups are cached and the fountain search reads only the level's decorations.

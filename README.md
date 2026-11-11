@@ -15,7 +15,7 @@ This is a **beta**: lots of systems, some rough edges. Back up whenever you like
 ### Runs
 - **Random fighters** from your freezer. Death is permanent: a fallen fighter stays behind as a hater.
 - **Lives** instead of kill-coin continues. Quitting the game does not refill them.
-- **Continue later:** ride a floor elevator back to the waiting room, or use Tryptamine D or a Solo Shelter, and the run is saved, even if you close the game. The hub elevators offer **CONTINUE** with the run's stats (run points, waves, lives, world level), and **X** there ends the run. Continuing sends the bag's mushrooms, beasts and healing items to the storage locker (healing items that do not fit go to the reward box).
+- **Continue later:** ride a floor elevator back to the waiting room, or use Tryptamine D or a Solo Shelter, and the run is saved, even if you close the game. The hub elevators offer **CONTINUE** with the run's stats (run points, waves, lives, world level), and the **Abandon run** row there (or **X**) ends the run. Continuing sends the bag's mushrooms, beasts and healing items to the storage locker (healing items that do not fit go to the reward box).
 - **Quit mid-floor** and the next launch puts you back on that floor, in the same run.
 - **Level up on the floor** (X in the pause menu); levels reset when the run ends. Your **world level** and **grade** grow as you play, and grade-ups to **grade 7** happen by themselves.
 - **12 blood pacts** chosen on the elevator, for more or less SPIRIT: No Hub Upgrades, Mythic, No Decals, Brittle, Masterwork, Hunted, Overtime, Locked Down, Fog of War, Safe Passage, Quiet World and Randomizer (random weapons and armour every floor instead of powerups).

@@ -1,5 +1,57 @@
 # Changelog
 
+## 0.9.8-beta
+- The daily box and the Reward Box no longer give gear or decals (login bonuses, mystery bags and quests included): kill coins, SPIRIT, Bloodnium, Death Metal, mushrooms, beasts and items only.
+- Continuing a run from the waiting room now returns you to the exact same floor: the same rooms, the chests you left, the enemies you did not kill, and your explored map.
+- Fixed: the daily reward box could be opened (invisible) before all five dailies were done.
+- Gear can no longer sit in the Death Bag outside a run: any piece there is removed, and gear in the reward box is cleared when the game loads.
+- Balance: haters have a third more health (they died in 4 - 5 hits); mid-bosses and stage bosses were lowered to match (about 10 and 18 hits for a new fighter).
+- Enemy gear now follows the researched level of the gear types you wear, not the level of the copies in your hands.
+- Balance: the pace of all three modes re-set after the boss and resistance fixes (a fully upgraded player's best runs end near floor 1000, wave 500 and boss 200).
+- Balance: stage bosses have 2 haters' worth of health (was 2.5): their own resistances cut weapon damage more than the simulation had assumed.
+- Fixed: a gear piece could turn up in the reward box as coming from the Death Bag's Express slots. The game's Express Pass rule no longer empties the hidden equipment slots.
+- Fixed: after a final death, the fighter you chose next lost its own gear to the old run's clean-up.
+- Replacing a worn armour piece no longer shows the old piece dropping to the floor.
+- Quit / Back to title in the waiting room no longer warns that your fighter will be killed.
+- Fighter stats can reach 99: past grade 10 every grade raises each stat's cap by 5 (a maxed GRADE UP upgrade opens them).
+- Balance: mid-bosses have 1.5 haters' worth of health (was 5) and bosses hit about 40% softer -- a first-floor mid-boss killed in 3 hits and took over 80. The game halves weapon damage against every mid-boss, which the balance simulation had missed.
+- Freezer: a dead fighter is no longer shown (no Haterfied box); the freezer opens on the offers, and the dead one is removed when you pick a fighter.
+- Fixed: the freezer kept more fighter offers than the FIGHTER OFFERS upgrade allows.
+- Fixed: a final death (no lives left) could leave the game stuck on the death screen.
+- Fixed: armour taken from a reward was not worn (the new hidden armour slot's copy was taken for a bagged piece and destroyed).
+- Fixed: a crash a moment after Back to title when the pause menu had been open on a floor.
+- Fixed: armour from rewards was lost on the ride back to the hub (weapons were kept). Worn armour now has its own hidden bag slots, like the weapons.
+- Fixed: returning to a floor through the hub brought all its enemies back. As many enemies as you defeated there stay gone.
+- Fixed: the explored part of the map was not kept when you left a floor and came back. It is also saved every 20 seconds now, so a crash keeps it.
+- Fixed: Back to title on a run floor crashed the game (the game's offline server refused to save a floor without a Bivouac item).
+- Fixed: after continuing a run in a new session the fighter played at level 1 until the next level-up.
+- Fixed: after continuing a run, unopened chests could be put back outside the floor (the floor counter showed chests that could not be found).
+- Fixed: decals the game only has in a premium version (Lily Bergamo and 228 others) showed the premium shine on the skill bar without being prestiged.
+- Fixed: leaving the blood pacts list at Mingo left the fighter in a T-pose until Mingo let go.
+- Less background work: two checks that searched the whole game every few seconds (title menu, boss photo scene) now run only where they can find something.
+- Shorter hitch when a floor's chests are placed (the floor is searched once, not twice).
+- Horde lockdowns have their section walls again (they had stopped installing, see Mod Drive).
+- A run file deleted by hand (together with its signature) is now noticed: the run is unranked.
+- Co-op: a host who leaves a run floor (Back to title, Quit game, closing the window) hands the room to a living teammate first, so the party plays on.
+- Co-op: a boss rush never sends a party to a rush arena (its boss waves run separately on each machine).
+- The run's decal, XP and loot files are signed like the run file: a changed file still loads, but the run is unranked.
+- **Co-op runs are never ranked.** A run that was played in a co-op session at any point sets no leaderboard record, even if it ends solo.
+- A run is also unranked when its save file was edited, or when the game was closed at low health (below 25 %) more than once during it. Quitting in good health never counts.
+- Co-op: every player now plays at the host's depth and start grade (enemy strength, rewards and chest spots used to differ between players).
+- Co-op: fired-up enemies (fast / explosive / regenerating) are the same ones for every player.
+- Co-op: your reward pickups are no longer briefly visible to other players.
+- Fixed: the chest shuffle kept running in the waiting room.
+- Fixed: a crash when you died after returning to a floor. The rebuilt floor kept the enemy ids of your first visit, which the game's offline server no longer knew.
+- Fixed: kill coins from COINS instead, events, the corrupted floor, the Haunted shrine, Inari / Midas and ticket refunds were lost while you had spent nothing in the run.
+- Kill coins the mod credits (Lily Bergamo and the rest) now show on the coin counter, counting up like a pickup.
+- Fixed: quitting on a run floor and starting again was treated as a new run: the first-floor reward again, level 1, and CONTINUE going to a random floor.
+- Fixed: early enemies (the MK-1 robot among them) hit at full strength: the game reset their attack between the mod's checks.
+- Guns show bullets left / magazine size (6 / 6 on a magnum); no reserve number, the ammo is endless until the gun breaks.
+- COINS instead (Y) on lucky drops and hater gear too.
+- New: End run (Y) on the Quit game card of a run floor: your fighter dies, the run ends and you go back to the waiting room.
+- Decal cards: every decal in the powerup bar shows its stacked numbers (every other one showed the game's base text), a decal whose text has no number shows "At your stacks: NN% of base", and the mod's own decal texts mark every number.
+- The "<floor> is available" notices after a boss no longer appear (floors are not unlocked in POSTMORTEM).
+
 ## 0.9.7-beta
 - Fixed: armour from rewards disappeared when you rode the elevator back to the waiting room (weapons were kept).
 - **Returning to a paused run puts you back on the same floor as you left it:** the chests stand where they stood (the ones you opened are gone), the enemies you defeated stay dead and the rest are the same ones, and the discovered map is kept.

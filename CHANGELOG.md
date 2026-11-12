@@ -1,5 +1,27 @@
 # Changelog
 
+## 0.9.10-beta
+- Update Mod Drive 9000 to 1.3.8 together with this version.
+- **Gear levels are worth more.** A part grows evenly from its base at level 1 to the base of its next tier at level 99 (a grade 1 body at +99 is as strong as its grade 2 version at +1). Top-tier parts grow to 2.2 x defence / 2.5 x attack. Premium works on top as before.
+- Balance: the pace of all three modes re-set for the new gear curve (a fully upgraded player's best runs still end near floor 1000, wave 500 and boss 200).
+- **Ticket surge.** An upgrade of gear whose type holds drop tickets, or the next stack of a decal that holds tickets, can now give several levels at once. Two new TDM upgrades raise it: GEAR SURGE and DECAL SURGE (5 levels each). A ticketed decal you hold is also offered three times as often. A full armour set at +99 and a decal at 99 inside one grade is possible, but rare.
+- Reward cards never offer a worse copy of a part you already have (worn or in a hand): another part of that rarity is offered instead, and a duplicate that becomes an upgrade keeps the better level.
+- Fixed: upgrading a decal (R&D level, Premium) did nothing for the decals whose effect the mod works out itself. Lily Bergamo's payout, the growth, guard, heal, durability, offer and exploration decals now all scale with the upgrade, and their descriptions say by how much.
+- HEAD START is removed from the TDM upgrades. Levels you bought are refunded in SPIRIT.
+- Stamps: the stamping minigame is skipped and every stamp is a perfect one. Badly made stamps already in your save are set to clean.
+- Freezer: dead fighters are left out of the list, fighters come first and empty slots after (no gaps).
+- Blessings and curses show as icons in the status-effect bar (DeatHUD 1.1.4 can show the time left under them).
+- Event HUD: the timer row no longer shows the kill-coin bank and SPIRIT tank symbols during events that have neither. The BANK event keeps them, with a mark when one is broken.
+- Floor Hernia machines have their own lineup (up to 3 decal upgrades and 2 gear upgrades). Fixes a crash when buying there with less money on the server than shown.
+- Floor Laboratory: the powerup's price is shown on the X button guide (no message box), and the price is higher and doubles with each one bought in a run.
+- Mushroom beasts are scaled with the floor like other enemies, and a poison tick is a share of your max HP (a snail's poison was the same flat amount at every level).
+- Fixed: a new run started right after abandoning one kept the old run's world level and XP.
+- Fixed: after a run that ended in the fighter's death, the next run had no levels and no XP bar.
+- New settings: Achievement pop-ups (on / off, anchor, offset; they come from the top centre now) and Minimap run info (floor / wave, run points, where, offset).
+- The rank card shows your total run points. The leaderboard's Latest Run lines are centred in their box.
+- Prestiged decals without a Premium version of their own now get the holographic sheen too.
+- The Thousand Fists icon has blue fists. Monkeysanity is removed.
+
 ## 0.9.9-beta
 - Needs Mod Drive 9000 1.3.7, which lets these install again: the daily box and Reward Box no longer give gear or decals (0.9.8-beta said so, but the filter never ran), the bank and SPIRIT tank hold up to your wallet cap again (the game's own 50,000 bank limit was back), boss rush gives fresh floors, the mushroom bag is cleared at a run's start, and achievements show their descriptions and rewards.
 - Smoother arrival on a floor: placing the chests is spread over several frames (it was one hitch of about a tenth of a second, 10 to 20 seconds after arriving).

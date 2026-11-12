@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.9.9-beta
+- Needs Mod Drive 9000 1.3.7, which lets these install again: the daily box and Reward Box no longer give gear or decals (0.9.8-beta said so, but the filter never ran), the bank and SPIRIT tank hold up to your wallet cap again (the game's own 50,000 bank limit was back), boss rush gives fresh floors, the mushroom bag is cleared at a run's start, and achievements show their descriptions and rewards.
+- Smoother arrival on a floor: placing the chests is spread over several frames (it was one hitch of about a tenth of a second, 10 to 20 seconds after arriving).
+- End run: the fighter is no longer hit again after it has died.
+- Fixed: stopping an elite enemy's effect could reach the wrong object.
+
 ## 0.9.8-beta
 - The daily box and the Reward Box no longer give gear or decals (login bonuses, mystery bags and quests included): kill coins, SPIRIT, Bloodnium, Death Metal, mushrooms, beasts and items only.
 - Continuing a run from the waiting room now returns you to the exact same floor: the same rooms, the chests you left, the enemies you did not kill, and your explored map.

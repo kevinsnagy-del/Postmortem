@@ -39,10 +39,10 @@ This is a **beta**: lots of systems, some rough edges. Back up whenever you like
 
 ### Blessing shrines
 - Jizo, fox and monkey statues appear on floors; **hold A** to pray (a gauge shows the progress).
-- Blessings: **Swiftness**, **Wrath**, **Iron Skin**, **Bloodthirst**, **Fortune**, **Jizo's Mercy** (one more life) and **Inari's Favour**; and there is **Monkeysanity**. Gamble shrines trade kill coins for a random blessing.
+- Blessings: **Swiftness**, **Wrath**, **Iron Skin**, **Bloodthirst**, **Fortune**, **Jizo's Mercy** (one more life) and **Inari's Favour**. Gamble shrines trade kill coins for a random blessing.
 
 ### Between runs
-- **The TDM terminal is a hub-upgrade web:** damage and resistance per element (slash, blunt, fire, electric, poison, gunfire), Starting Lives, Second Wind, Floor Medic, Wave Medic, Bloodlust, Head Start, Extra Starters, Rerolls, Banish, Reward Quality, Reward Rooms, Lucky Drops, Treasure Nose, Explorer, Scout, Fewer Lockdowns, Longer Breathers, Lost Bag, Salvage, Bank, Spirit Tank, Dustin, Whetstone, Grade Up, Decal Mastery, Decal Offers, Focused Decals, gear and decal ticket magnets, Tuned Tickets, Blood Pacts, and the fighter upgrades (Fighter Freezer, Fighter Offers, Fighter Tier, Better Fighters, Skilled Fighters, Big Bags).
+- **The TDM terminal is a hub-upgrade web:** damage and resistance per element (slash, blunt, fire, electric, poison, gunfire), Starting Lives, Second Wind, Floor Medic, Wave Medic, Bloodlust, Extra Starters, Rerolls, Banish, Reward Quality, Reward Rooms, Lucky Drops, Treasure Nose, Explorer, Scout, Fewer Lockdowns, Longer Breathers, Lost Bag, Salvage, Bank, Spirit Tank, Dustin, Whetstone, Grade Up, Decal Mastery, Decal Offers, Focused Decals, gear and decal ticket magnets, Tuned Tickets, Gear Surge, Decal Surge, Blood Pacts, and the fighter upgrades (Fighter Freezer, Fighter Offers, Fighter Tier, Better Fighters, Skilled Fighters, Big Bags).
 - **The freezer** offers random fighters; how many and how good depends on your upgrades. Rerolls are earned every few floors.
 - **The Laboratory:** research unlocks gear for the drops, blueprints, drop tickets, and **premium** decals and equipment past level 99 (about +1 % a premium level, twice as strong at premium 99).
 - **Hernia's vending machine, rebuilt:** daily blueprint offers for R-points, blueprint recycling, Today's Lineup (gear to start a run with), Extra Lives, a Reroll Pack and a Decal Pick.

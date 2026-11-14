@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.9.11-beta
+- Update Mod Drive 9000 to 1.4.0 together with this version (it does not load on an older one).
+- **The POSTMORTEM logo** is shown over the title screen movie when POSTMORTEM is highlighted, at the bottom centre, and glitches in bursts along with the movie.
+- **ZA WARUDO.** With the Bizarre Jojos in your hands, press LB + RB: your fighter points at the enemies and their time stops for 5 seconds (25 seconds cooldown). In co-op it stops time for the whole party.
+- Mid-bosses and bosses: their grab and cannon kill moves can no longer take more than 40% of your health in one hit (they could one-shot a full-health fighter).
+- Mushroom beasts get better with depth: the beasts that heal more (fish over frog, and so on) are rarer on early floors and common deeper down. Golden beasts too.
+- Exploration reward: POSTMORTEM works out the explored part of the floor itself (DeatHUD is not needed any more) and pays the full reward at 80%. The loading ride no longer counts as explored ground.
+- Fixed: the "full exploration reward" achievement never counted.
+- Achievements have 10 tiers, and each tier is worth twice the one before.
+- Fired-up enemies: the fuse before they blow up is 2.5 seconds and beeps like a mine about to go off.
+- Gates the game keeps closed on a floor (for example the mid-boss gates) are opened with their own opening animation, and retried if the first try does not take. A gate on floor 9 could stay shut and block the way.
+- The Bizarre Jojos no longer get put away when you open a chest, a vending machine or a menu (the D-pad in menus counted as a weapon switch).
+- EXP decals (Turbo Charged Engine and the other EXP-gain decals) now LOWER the EXP a run gives instead of raising it -- in this mode a slower level-up is the reward (staying longer on a floor no longer pays off).
+- Co-op: a member's floors are built from the host's template and match the party level (host world level and grade).
+
 ## 0.9.10-beta
 - Update Mod Drive 9000 to 1.3.8 together with this version.
 - **Gear levels are worth more.** A part grows evenly from its base at level 1 to the base of its next tier at level 99 (a grade 1 body at +99 is as strong as its grade 2 version at +1). Top-tier parts grow to 2.2 x defence / 2.5 x attack. Premium works on top as before.

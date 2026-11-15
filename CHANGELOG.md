@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.9.12-beta
+- Update Mod Drive 9000 to 1.4.1 together with this version (it does not load on an older one).
+- **Elevators are free** in POSTMORTEM.
+- **A new POSTMORTEM save starts with nothing from the base game:** every currency at 0, an empty reward box and coin locker, and none of your stored mushrooms, beasts or items. An existing POSTMORTEM save keeps what it has (use Start over for a clean one).
+- **Back to title or a Solo Shelter on a run floor:** the run now waits in the hub and CONTINUE on a hub elevator takes you back to that floor's start. It used to resume in the shelter's tent, which also healed you fully.
+- Fixed: going back to a run after Back to title gave the run's starting rewards again.
+- Run points: a run's first floor is worth 0, then +1, +2, +3 and so on.
+- Co-op (with Let Us Die 0.9.7-beta): the room page shows every party member's real rank card; event beasts, bomb stations, supply crates and storm strikes are the same for everyone; a teammate's super weapon looks and plays its effects on every screen, and finishers are shown on the finisher's body.
+- The title logo and movie load with the title menu, so they are ready the moment POSTMORTEM is highlighted. Fixed: the logo could show as a green picture after a return to the title.
+- Fixed: the "eat beasts" achievement could count when the game started.
+- The XP bar is on by default, under the health plate.
+- Performance: fewer full searches of the game's objects (title screen, boss cutscenes), faster balance lookups, and the infinite-ammo refill no longer runs every frame.
+
 ## 0.9.11-beta
 - Update Mod Drive 9000 to 1.4.0 together with this version (it does not load on an older one).
 - **The POSTMORTEM logo** is shown over the title screen movie when POSTMORTEM is highlighted, at the bottom centre, and glitches in bursts along with the movie.

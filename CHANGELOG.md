@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.9.13-beta
+- Abandoning a run from the hub elevator takes the run's gear at once instead of a few seconds later.
+- The abandon question fits its box.
+- Messages are written more naturally (no more dashes in the middle of sentences).
+
 ## 0.9.12-beta
 - Update Mod Drive 9000 to 1.4.1 together with this version (it does not load on an older one).
 - **Elevators are free** in POSTMORTEM.

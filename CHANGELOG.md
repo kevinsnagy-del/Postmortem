@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.9.14-beta
+- For the LET IT DIE update of November 2026 (game 5.0.6). Everyone in a party needs this version (the co-op messages changed).
+- **Boss hunts:** a mid boss, a don or a Forceman comes for you with a wave of enemies. New event **THE FOUR FORCEMEN** (from depth 12): all four at once. In the horde, they join the horde.
+- Rarely a boss waits somewhere on the floor like an ordinary enemy.
+- A treasure room sometimes has a boss guarding the treasure.
+- **Boss variants:** Venom, Ember, Storm, Swift, Undying and Volatile bosses, each with its own look and its own trick: poison, burning or shock on their hits, a faster boss, one that heals, one that explodes when it dies. They pay extra kill coins and SPIRIT.
+- **Horde waves:** swarms, hater squads, Jackal packs, elite warbands, blitz waves and a surge every 10th wave; robot waves; boss waves every 20th wave with a mid boss, a don or the Forcemen.
+- Boss rush: the arena is chosen instead of rolled, and the party always gets the same arena.
+- Enemy fighters (Jackals, haters, the Four Forcemen) are built like players of their level: stats per level, gear on the enemy gear ladder, and the combat reads POSTMORTEM's part stats.
+- Dismantle Death 'Roids (the new vending machine option) works at POSTMORTEM's rate; reward ticket prices go up to rarity 7; gold and blue ticket icons.
+- **Fixed: arriving by escalator could leave you stuck with no control on some floors.** The game only knew the floors of the tower layout your run started in; it now knows every layout. If an arrival ever stalls, you are put back on the floor.
+- Fixed: lockboxes were not always moved to where they were placed.
+- Fixed: after going back to the title, a POSTMORTEM run's part cleanup could touch the normal save's parts.
+- Co-op: the bank event is one bank for the whole party (the same place, shared damage); Jackals wear the same armour on every machine.
+- Lighter: fewer short stutters during a run.
+
 ## 0.9.13-beta
 - Abandoning a run from the hub elevator takes the run's gear at once instead of a few seconds later.
 - The abandon question fits its box.

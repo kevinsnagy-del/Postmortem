@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.9.16-beta
+- Update Mod Drive 9000 to 1.4.5 together with this version. Everyone in a party needs this version.
+- **Fixed: an endless loading screen** when the game resumed a floor after a crash on a floor of another tower layout.
+- **The Four Forcemen machine lets you pick the difficulty:** Up / Down choose Normal, Hard, Nightmare or Hell. The price follows your depth; a harder pick makes the Forceman tougher and pays back more: 1 to 4 powerup choices and the price back x2, x3, x6 or x10 in kill coins.
+- Forcemen hit much less hard (their attack bonus is held to the depth like their stats), and no Forceman hits another.
+- **Events have their own fighters:** event enemies, the VIP and the waiting-room characters are POSTMORTEM's own fighters scaled to your depth, so they always come, even on a floor whose enemies are all gone. The characters wear a fighter of their gender.
+- Event enemies, event bosses and the VIP no longer count as floor enemies (the enemy counter and the escalator lock ignore them).
+- Boss hunts are the boss alone. The Four Forcemen come one at a time.
+- New event: **a mimic crate**. It looks like a supply drop; opening it brings one of the Four Forcemen.
+- Sometimes a **skateboard** lies on the floor: ride it as long as you like.
+- The VIP is carried with the game's own carry prompt, over your shoulder.
+- Blood Moon turns the world red; bombs beep as you get close.
+- The supply crate pays when it opens.
+- A boss killed outside its arena simply dies (the arena-only finisher froze the game).
+- Quitting right after picking the starter weapon no longer loses it.
+- One blessing per fountain.
+- With the Hellhound pair in your hands, the D-pad works in menus again.
+- Manhunt is off for now.
+
 ## 0.9.15-beta
 - **New title music:** "Corrupted Drive" plays while POSTMORTEM is highlighted on the title screen.
 - **Lives:** the death screen shows Kiwako holding her YES / NO signs, with a big LIVES LEFT number on the camera behind her. **NO** with a life left ends the run and sends a random half of your bag (materials, mushrooms, healing items) to the reward box. **YES** spends a life; dying after that loses everything.

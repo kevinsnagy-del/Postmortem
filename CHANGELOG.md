@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.9.15-beta
+- **New title music:** "Corrupted Drive" plays while POSTMORTEM is highlighted on the title screen.
+- **Lives:** the death screen shows Kiwako holding her YES / NO signs, with a big LIVES LEFT number on the camera behind her. **NO** with a life left ends the run and sends a random half of your bag (materials, mushrooms, healing items) to the reward box. **YES** spends a life; dying after that loses everything.
+- **Fighter potential:** every fighter has a hidden ceiling for each stat (40 to 99, better for its own class). The freezer card shows it as S / A / B / C ranks.
+- **Fighter rerolls:** X inside the fighter freezer rerolls the offers. You earn a free reroll every 10 floors (fewer with FIGHTER FREEZER), up to 3 saved.
+- Fixed: switching fighters in the freezer gave a free new offer every time.
+- LOST BAG gives 1 slot a level (up to 5).
+- **Events:**
+  - Boss hunts are the boss alone.
+  - The manhunt is one strong, fast hunter.
+  - Every enemy that spawns arrives in the Jackals' blue teleport flash.
+  - The bomb event works like the Jackson fight: hold INTERACT to disarm, the bombs sit on the floor and beep, a short countdown, and a blast that knocks you down.
+  - The legendary beast is tough (5 times a fighter of the floor), has an HP bar, and escapes after 40 seconds.
+  - The bank lasts 90 seconds and crosses out each piece you break.
+  - Blood Moon turns the world red.
+  - The supply crate can be opened.
+  - The VIP is carried with the game's own carry prompt.
+  - Event messages are short; events without a count or a timer show no status box.
+- Boss hits take at most 60 % of your health, so no boss kills you in one hit from full.
+- A boss killed outside its arena simply dies: the arena-only finisher (which froze the game) cannot start there.
+- One shrine per fountain (a fountain made of two models gave two blessings).
+- POSTMORTEM's own automatic escalator ride: hidden floors no longer need Let Us Die.
+- Decal cards state their real numbers instead of multipliers.
+- A relaunched run keeps its banishes, stored offers, banished decals and shrine effects.
+- Event kill coins are a number of floors' worth of income instead of growing without end.
+- Fixed: the game crashed on the first hub visit.
+- Fixed: killing an event beast crashed the game.
+- Fixed: the escalators stayed locked after the skeleton summoner died (its hidden spare skeletons were counted).
+- Fixed: a death during an event paid the event's reward on the way home.
+- Fixed: falling twice at the same spot no longer loops; you are put on the nearest floor.
+- Fixed: some spawns came out hidden and frozen but still counted as enemies.
+- Balance: start ranks and weapon numbers recalculated from each weapon's real moves.
+
 ## 0.9.14-beta
 - For the LET IT DIE update of November 2026 (game 5.0.6). Everyone in a party needs this version (the co-op messages changed).
 - **Boss hunts:** a mid boss, a don or a Forceman comes for you with a wave of enemies. New event **THE FOUR FORCEMEN** (from depth 12): all four at once. In the horde, they join the horde.

@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.9.17-beta
+- Update Mod Drive 9000 to 1.4.7 together with this version. Everyone in a party needs this version.
+- **A new balance for the whole climb.** Each grade is hard when you arrive and gets easier as you upgrade; good runs with the right decals and armour carry you further. The world's tiers now follow the fighter's grades (tier 8 = grade 8, tier 9 = level 265), and past 265 the enemies keep getting slowly stronger, without a wall.
+- **Robots and tubers** have their own difficulty per grade.
+- **Gear grades are kept apart:** a grade's +99 gear is a good start for the next grade, but the next grade's gear at +0 is always better.
+- **Sub elevators take you home** and pause the run; you continue from that sub elevator.
+- New event: **Against the clock** -- clear the floor within 3 minutes.
+- A new floor heals at most about 10 %, a whetstone repairs at most about 10 %.
+- Blood pacts give SPIRIT and kill coins.
+- Jackals, Dons, Forcemen and mid-bosses: their hits follow their stats again (no more one-shots from raw boss stats).
+- Fixed: armour showing more durability than its maximum (178 / 168), decal icons past the 9th, a locked gate fence on Rooftop, chests below the ground, a "quests updated" notice, feet through the skateboard.
+
 ## 0.9.16-beta
 - Update Mod Drive 9000 to 1.4.5 together with this version. Everyone in a party needs this version.
 - **Fixed: an endless loading screen** when the game resumed a floor after a crash on a floor of another tower layout.

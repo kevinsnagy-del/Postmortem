@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.9.18-beta
+- Update Mod Drive 9000 to 1.4.8 together with this version. **Everyone in a party needs this version.**
+- **Co-op:** a teammate who arrives late (Join your party, a slow load) now gets the horde's enemies, the running event, lockboxes and shrines that were already there.
+- **Co-op:** lockboxes, shrines and Jackals are the same on every machine, and party difficulty now reaches bosses, robots, Jackals and haters (it was held back to solo health).
+- **Co-op:** a teammate's super-weapon pull and element abilities reach the real enemies, and the host decides the Heaven-detour arena for everyone.
+- **Co-op:** a teammate already home is no longer pulled up the hub escalator by the host's ride.
+- The hub is never marked raided in POSTMORTEM, also when the game starts straight into the POSTMORTEM save.
+- Fog of War closes reliably when a pause menu opens.
+
 ## 0.9.17-beta
 - Update Mod Drive 9000 to 1.4.7 together with this version. Everyone in a party needs this version.
 - **A new balance for the whole climb.** Each grade is hard when you arrive and gets easier as you upgrade; good runs with the right decals and armour carry you further. The world's tiers now follow the fighter's grades (tier 8 = grade 8, tier 9 = level 265), and past 265 the enemies keep getting slowly stronger, without a wall.

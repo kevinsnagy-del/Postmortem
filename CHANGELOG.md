@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.9.19-beta
+- Update Mod Drive 9000 to 1.4.9 together with this version. **Everyone in a party needs this version.**
+- **Blood Pacts:** each pact shows its percentage on the left, [X] when it is on, and a short description on the right.
+- **Positive pacts now cost kill coins as well as SPIRIT.**
+- The boss rush escalator opens greyed out while a run is paused, instead of doing nothing.
+- Closing the game right after a run no longer loses the Volcano boost on the pact bonus.
+- **Many floor-change fixes:** a lockdown that was running no longer opens walls on the next floor; events, elites, boss variants and the skateboard no longer touch the next floor's objects; enemies on a resumed floor get the right HP and XP; drops follow your grade on the new floor; the record fighter shows again after a run; a second death on the same floor is handled (lost bag).
+- Fixed a rare crash after a floor change with a super weapon out.
+- ZA WARUDO no longer leaves the enemies frozen when the host dies during the time stop.
+- Lily Bergamo can no longer pay twice after a crash.
+- The "Bag full" reminder comes every 3 minutes instead of every 30 seconds.
+- Floor data files are only written with Probes / logs on.
+
 ## 0.9.18-beta
 - Update Mod Drive 9000 to 1.4.8 together with this version. **Everyone in a party needs this version.**
 - **Co-op:** a teammate who arrives late (Join your party, a slow load) now gets the horde's enemies, the running event, lockboxes and shrines that were already there.

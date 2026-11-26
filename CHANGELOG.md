@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.9.20-beta
+- Update Mod Drive 9000 to 1.5.0 together with this version. **Everyone in a party needs this version.**
+- **Leaderboard:** runs are matched to the right game data again (the data list was read wrongly on long lines).
+- **Horde:** after the last life, saying no to continue no longer pays out the waves you did not clear. An event no longer draws over the horde timer and wave count.
+- **Co-op:** hater gear drops are the host's on every screen. Prayers at a shrine and the event / corrupted floor prompts take the confirm again while their prompt is up.
+- **Team deathmatch:** each upgrade shows its own icon instead of a shared one.
+
 ## 0.9.19-beta
 - Update Mod Drive 9000 to 1.4.9 together with this version. **Everyone in a party needs this version.**
 - **Blood Pacts:** each pact shows its percentage on the left, [X] when it is on, and a short description on the right.

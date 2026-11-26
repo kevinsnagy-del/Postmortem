@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.9.21-beta
+- Update Mod Drive 9000 to 1.5.1 together with this version. **Everyone in a party needs this version.**
+- **Co-op chests:** an opened chest stays open for everyone and is no longer removed from a teammate's floor. Anyone can take an item chest's contents; coins and reward offers stay the opener's.
+- **Co-op drops:** a gear drop lies where the host's drop lies, so the pickup prompt matches what you see. Gear a hater wore and left on its corpse is the same on every screen.
+- **Co-op:** a teammate's skateboard ride shows on their body, a two-handed super weapon hides their other hand's weapon, and their super-weapon shots no longer hit twice.
+- A vending machine a teammate broke no longer counts as yours.
+- An escalator or elevator ride no longer counts as a fall: you are not put back with damage halfway through the ride.
+
 ## 0.9.20-beta
 - Update Mod Drive 9000 to 1.5.0 together with this version. **Everyone in a party needs this version.**
 - **Leaderboard:** runs are matched to the right game data again (the data list was read wrongly on long lines).
